@@ -1,8 +1,8 @@
 ### Hi there 👋
 - I'm An-Ru.
-* I'm a student of MIS.
-+ I'm currently learning web programming!
-+ I’m interested in play games
+- I'm a student of MIS.
+- I'm currently learning web programming!
+- I’m interested in play games
 - 📫 How to reach me <tseng901205@gmail.com>
 
 <!--
