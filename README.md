@@ -1,5 +1,4 @@
-### Hi there 👋
-- I'm An-Ru.
+### Hello, I'm An-Ru Zeng. 👋
 - I'm a student of MIS.
 - I'm currently learning web programming!
 - I’m interested in play games
