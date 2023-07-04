@@ -1,9 +1,4 @@
-### Hello, I'm An-Ru Zeng. 👋
-- I'm a student of MIS.
-- I'm currently learning web programming!
-- I’m interested in play games
-- 📫 How to reach me <tseng901205@gmail.com>
-
+🛌 I’m tired.
 <!--
 **anan0112/anan0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
